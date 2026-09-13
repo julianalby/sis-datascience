@@ -1,5 +1,5 @@
 # Gaming Addiction Risk Level Classification Modeling
-This is my final project for my 6th semester where I attended Binus University's Specific Independent Study program in their internal Data Science Course. As a 2 person team, we used Python on Google Colab to classify gaming addiction risk based on individuals' behavioral indicators, conducting exploratory data analysis (EDA), data pre-processing, and modeling with XGBoost and SVM using libraries such as pandas, matplotlib, seaborn, and scikit-learn.
+This is my final project for my 6th semester where I attended Binus University's Specific Independent Study program in their internal Data Science Course. As a 2 person team, we used Python on Google Colab to classify gaming addiction risk based on individuals' behavioral indicators, conducting exploratory data analysis (EDA), data preprocessing, and modeling with XGBoost and SVM using libraries such as pandas, matplotlib, seaborn, and scikit-learn.
 
 For the course output, we also authored an academic research paper on the project to be submitted to a conference, which in our case was ICORIS 2026.
 
