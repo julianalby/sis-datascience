@@ -14,4 +14,7 @@ https://colab.research.google.com/drive/1xZfBvJKBdYRTicj6P4FSEf0OXgUirjqj?usp=sh
 1. Download `Gaming and Mental Health.csv`, whether from this repository or the Mendeley Data repository.
 2. Click the folder icon on the left sidebar and wait for the runtime to connect.
 3. Click the `Upload to session storage` button and upload `Gaming and Mental Health.csv`.
+<p align="left">
+  <img src="image.png" alt="Image indicating folder and upload buttons" width="400">
+</p>
 4. Click `Run all` to run the project.
